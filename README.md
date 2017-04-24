@@ -1,10 +1,10 @@
 #Personal-Portfolio-Template
 
 <p align="center">
-  <img src="img/NickolasTeixeira.jpg" width="500">
+  <img src="images/NickolasTeixeira.jpg" width="500">
 </p>
 
-In this project, I created a personal portfolio template for other developers to use and showcase their skills, experience and projects. ß 
+In this project, I created a personal portfolio template for other developers to use and showcase their skills, experience and projects.  
 
 # Technologies Used
 
